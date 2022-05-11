@@ -1,2 +1,0 @@
-# receta
-recetario
